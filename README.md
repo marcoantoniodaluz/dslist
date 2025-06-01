@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">O projeto DSList é sistema web de coleções de jogos no formato de uma API Back end + banco de dados, desenvolvida durante o Intensivão Java Spring, evento organizado pela https://devsuperior.com.br/</p>
+<p align="left">O projeto DSList é sistema web de coleções de jogos no formato de uma API Back end + banco de dados, desenvolvida durante o Intensivão Java Spring, evento organizado pela <a href="https://devsuperior.com.br/">DevSuperior.</a></p>
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=200px /><br></div></p>
 
 ###
 
@@ -14,23 +14,7 @@
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
-
-###
-
-<p align="left">Aula 1<br>· Conceitos<br>· Sistemas web e recursos<br>. Cliente/servidor, HTTP, JSON<br>· Padrão Rest para API web Estruturaçao de projeto Spring Rest<br>. Entidades e ORM Database seeding<br>· Padrão camadas<br>· Controller, service, repository<br>· Padrão DTO</p>
-
-###
-
-<p align="left">Aula 2<br>. Relacionamentos N-N<br>· Classe de associação, embedded id<br>· Consultas SQL no Spring Data JPA<br>· Projections</p>
-
-###
-
-<p align="left">Aula 3<br>· Dicas de currículo e portfólio<br>· Perfis de projeto<br>. Ambiente local com Docker compose<br>· Processo de homologação local<br>· Processo de deploy com CI/CD<br>· Configuração de CORS</p>
-
-###
-
-<p align="left">Aula 4<br>· Atingindo o nível Ultimate Java Spring<br>· Design e implementação de endpoint<br>· Verbo HTTP e idempotência</p>
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/3876c2f7-ce55-486a-8869-17373eb1b61d" width=650px /><br></div></p>
 
 ###
 
@@ -38,7 +22,7 @@
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/53db3214-01f2-456b-b264-1f6f9f6b0ac4" width=500px /><br></div></p>
 
 ###
 
@@ -46,7 +30,7 @@
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/f42d3565-3394-46c7-aca4-4404d0f52985" width=600px /><br></div></p>
 
 ###
 
@@ -54,7 +38,7 @@
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/67d7dd89-c98e-42c4-9730-8e675a13d1ea" width=800px /><br></div></p>
 
 ###
 
@@ -62,7 +46,7 @@
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/09067907-a776-4187-91b7-848dae16fead" width=800px /><br></div></p>
 
 ###
 
@@ -70,7 +54,22 @@
 
 ###
 
-<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+<p align="left">Reposicionamento de jogos na tela com atualização das posições no banco de dados.</p>
+
+###
+
+<p align="left">Lógica do Reposicionamento</p>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/4a6363b7-c73a-4044-a805-77455d137745" width=800px /><br></div></p>
+
+###
+
+<p align="left">Update do Repository</p>
+
+###
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/b26c8904-f06b-4176-80e6-9c0caac8c2c7" width=800px /><br></div></p>
 
 ###
 
