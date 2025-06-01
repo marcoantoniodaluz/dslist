@@ -67,5 +67,5 @@
 ###
 
 <div align="left">
-  <img src="Spring/Intensivão/back-end.png" />
+  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px />
 </div>
