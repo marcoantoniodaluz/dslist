@@ -6,7 +6,15 @@
 
 ###
 
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+
+###
+
 <h2 align="left">Conteúdo das Aulas</h2>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
 
 ###
 
@@ -23,6 +31,46 @@
 ###
 
 <p align="left">Aula 4<br>· Atingindo o nível Ultimate Java Spring<br>· Design e implementação de endpoint<br>· Verbo HTTP e idempotência</p>
+
+###
+
+<h2 align="left">Modelo em Camadas</h2>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+
+###
+
+<h2 align="left">Modelo Domínio</h2>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+
+###
+
+<h2 align="left">Testes da API no Postman</h2>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+
+###
+
+<h2 align="left">Banco de Dados</h2>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
+
+###
+
+<h2 align="left">Ponto Alto do Projeto</h2>
+
+###
+
+<p align="left"><div align="left"><br>  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px /><br></div></p>
 
 ###
 
@@ -65,7 +113,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/05328259-156d-47aa-90aa-862147e36356" width=100px />
-</div>
